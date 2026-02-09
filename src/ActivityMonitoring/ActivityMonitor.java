@@ -1,7 +1,5 @@
 package ActivityMonitoring;
 
-package ActivitySystem;
-
 import java.util.*;
 
 public class ActivityMonitor {
